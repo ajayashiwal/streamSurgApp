@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StreamSurgApp</string>
+    <string name="facebook_app_id">833184851159031</string>
+    <string name="fb_login_protocol_scheme">fb833184851159031</string>
+    <string name="facebook_client_token">31ea4aa971c7ab43dc93184ef92ab3e5</string>
+</resources>

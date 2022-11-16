@@ -1,0 +1,45 @@
+abstract class AssetsBase {
+  static const String baseUrl="assets/images/";
+  static const String appIcon = '${baseUrl}splashScreen.jpg';
+  static const String backgroundImage = '${baseUrl}backgroundImage.jpg';
+  static const String slideFrame1 = '${baseUrl}slideFrame1.png';
+  static const String slideFrame2 = '${baseUrl}slideFrame2.png';
+  static const String slideFrame3 = '${baseUrl}slideFrame3.png';
+  static const String streamSurgName = '${baseUrl}streamSurgName.png';
+  static const String fbIcon = '${baseUrl}fbIcon.png';
+  static const String googleIcon = '${baseUrl}googleIcon.png';
+  static const String backIcon = '${baseUrl}backIcon.png';
+  static const String profileImage = '${baseUrl}profileImage.png';
+  static const String ticketIcon = '${baseUrl}ticketIcon.png';
+  static const String homeIcon = '${baseUrl}homeIcon.png';
+  static const String favoriteIcon = '${baseUrl}favorite.png';
+  static const String notificationIcon = '${baseUrl}notificationIcon.png';
+  static const String profileIcon = '${baseUrl}profileIcon.png';
+  static const String profileActiveIcon = '${baseUrl}profileActiveIcon.png';
+  static const String favoriteActiveIcon = '${baseUrl}favoriteActiveIcon.png';
+  static const String notificationActiveIcon = '${baseUrl}notificationActiveIcon.png';
+  static const String homeInactiveIcon = '${baseUrl}homeInactiveIcon.png';
+  static const String profileHomePageIcon = '${baseUrl}profileHomePageIcon.png';
+  static const String downIcon = '${baseUrl}downIcon.png';
+  static const String dancingEvent = '${baseUrl}dancingEvent.png';
+  static const String gamingEvent = '${baseUrl}gamingEvent.png';
+  static const String locationIcon = '${baseUrl}locationIcon.png';
+  static const String homeDetailsBackImage = '${baseUrl}homeDetailsBackImage.png';
+  static const String checkIcon = '${baseUrl}checkIcon.png';
+  static const String thumbIcon = '${baseUrl}thumbIcon.png';
+  static const String starIcon = '${baseUrl}starIcon.png';
+  static const String clearIcon = '${baseUrl}clearIcon.png';
+  static const String person1 = '${baseUrl}person1.png';
+  static const String person2 = '${baseUrl}person2.png';
+  static const String person3 = '${baseUrl}person3.png';
+  static const String person4 = '${baseUrl}person4.png';
+  static const String person5 = '${baseUrl}person5.png';
+  static const String person6 = '${baseUrl}person6.png';
+  static const String newEventImage = '${baseUrl}newEventImage.png';
+  static const String rewardsImage = '${baseUrl}rewardsImage.png';
+  static const String deleteIcon = '${baseUrl}deleteIcon.png';
+  static const String editIcon = '${baseUrl}editIcon.png';
+  static const String ticketImage = '${baseUrl}ticketImage.png';
+  static const String backImage = '${baseUrl}backImage.png';
+
+}

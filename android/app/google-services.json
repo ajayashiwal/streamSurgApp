@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1056010006964",
+    "project_id": "streamsurgapp",
+    "storage_bucket": "streamsurgapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056010006964:android:fce0b2c42ed0e267bc42e1",
+        "android_client_info": {
+          "package_name": "com.app.streamSurgApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056010006964-p7d5isrdpkh4s51do47v6dgvg93lbrqf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.streamSurgApp",
+            "certificate_hash": "d116fb2493869420f0f0c32adf8ad19819c895b1"
+          }
+        },
+        {
+          "client_id": "1056010006964-nvvvnkkg9u0l2h3dkktd0pv0leqm63cj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARgCP8zCCaQ5r_nUiporNtZj3oj7j6Jn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056010006964-nvvvnkkg9u0l2h3dkktd0pv0leqm63cj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
